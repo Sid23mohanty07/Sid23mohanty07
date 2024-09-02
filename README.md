@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN Chatgpt project**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Full Stack projects**
 
