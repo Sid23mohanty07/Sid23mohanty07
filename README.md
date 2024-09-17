@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sid23mohanty07" alt="sid23mohanty07" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Chatgpt project**
+- 🔭 I’m currently working on **Open Source Projects**
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate on **Full Stack projects**
+- 👯 I’m looking to collaborate on **Unique real time projects**
 
-- 🤝 I’m looking for help with with **MERN**
+- 🤝 I’m looking for help with **DEVOPS**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **siddharthmohanty23@gmail.com**
 
-- ⚡ Fun fact **I am a gamer**
+- ⚡ Fun fact **I am a gamer and content creator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
